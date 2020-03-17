@@ -1,0 +1,25 @@
+.header {
+    background-color: gold;
+    margin-top: 0;
+    padding: 10px 10px 10px 20px;
+}
+
+.footer {
+    background-color: gold;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.header h1, .header h1 a {
+    color: #ffffff;
+    font-size: 38pt;
+    text-decoration: double;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
